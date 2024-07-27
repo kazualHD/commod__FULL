@@ -10,3 +10,57 @@
 [submodule "commod__home"]
 	path = commod__home
 	url = ../commod__home
+[submodule "commod__trading"]
+	path = commod__trading
+	url = ../commod__trading/
+[submodule "commod__allM"]
+	path = commod__allM
+	url = ../commod__allM/
+[submodule "commod__BigOpt"]
+	path = commod__BigOpt
+	url = ../commod__BigOpt/
+[submodule "commod__JD"]
+	path = commod__JD
+	url = ../commod__JD/
+[submodule "commod__Pipe"]
+	path = commod__Pipe
+	url = ../commod__Pipe/
+[submodule "commod__EM"]
+	path = commod__EM
+	url = ../commod__EM/
+[submodule "commod__SUG"]
+	path = commod__SUG
+	url = ../commod__SUG/
+[submodule "commod__QUO"]
+	path = commod__QUO
+	url = ../commod__QUO/
+[submodule "commod__Anylise"]
+	path = commod__Anylise
+	url = ../commod__Anylise/
+[submodule "commod__SMALLO"]
+	path = commod__SMALLO
+	url = ../commod__SMALLO/
+[submodule "commod__WEB"]
+	path = commod__WEB
+	url = ../commod__WEB/
+[submodule "commod__MOBILE"]
+	path = commod__MOBILE
+	url = ../commod__MOBILE/
+[submodule "commod__BUY"]
+	path = commod__BUY
+	url = ../commod__BUY/
+[submodule "commod__CONTACTS"]
+	path = commod__CONTACTS
+	url = ../commod__CONTACTS/
+[submodule "commod__BLOG"]
+	path = commod__BLOG
+	url = ../commod__BLOG/
+[submodule "commod__LOGIN"]
+	path = commod__LOGIN
+	url = ../commod__LOGIN/
+[submodule "commod__SIGNUP"]
+	path = commod__SIGNUP
+	url = ../commod__SIGNUP/
+[submodule "commod__FAQ"]
+	path = commod__FAQ
+	url = ../commod__FAQ/
