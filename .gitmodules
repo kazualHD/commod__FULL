@@ -1,0 +1,12 @@
+[submodule "commod__ALLV"]
+	path = commod__ALLV
+	url = ../commod__ALLV/
+[submodule "commod__DTION"]
+	path = commod__DTION
+	url = ../commod__DTION/
+[submodule "commod__DESK"]
+	path = commod__DESK
+	url = ../commod__DESK/
+[submodule "commod__home"]
+	path = commod__home
+	url = ../commod__home
